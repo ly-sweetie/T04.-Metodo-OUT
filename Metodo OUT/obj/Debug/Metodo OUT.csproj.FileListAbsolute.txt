@@ -1,0 +1,7 @@
+C:\Users\lyss_\source\repos\Metodo OUT\Metodo OUT\bin\Debug\Metodo OUT.exe.config
+C:\Users\lyss_\source\repos\Metodo OUT\Metodo OUT\bin\Debug\Metodo OUT.exe
+C:\Users\lyss_\source\repos\Metodo OUT\Metodo OUT\bin\Debug\Metodo OUT.pdb
+C:\Users\lyss_\source\repos\Metodo OUT\Metodo OUT\obj\Debug\Metodo OUT.csprojAssemblyReference.cache
+C:\Users\lyss_\source\repos\Metodo OUT\Metodo OUT\obj\Debug\Metodo OUT.csproj.CoreCompileInputs.cache
+C:\Users\lyss_\source\repos\Metodo OUT\Metodo OUT\obj\Debug\Metodo OUT.exe
+C:\Users\lyss_\source\repos\Metodo OUT\Metodo OUT\obj\Debug\Metodo OUT.pdb
